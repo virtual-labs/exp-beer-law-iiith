@@ -2,7 +2,7 @@ Beer Law states that the light absorbing capacity of a dissolved substance is di
 
 \begin{equation} A = - log_{10} T = ε_λ.l.c \end{equation}
 
-A is the absorbance and T is the transmittance (= I/I 0 , where intensity of incident beam is Io and the intensity of the emergent beam is I). ε λ , which is a property of the substance and the solvent at a particular wavelength λ, is known as the molar absorptivity or extinction coefficient of the dissolved colored substance. ℓ is the sample path length and c is the concentration of the substance in the sample.
+A is the absorbance and T is the transmittance (= I/I <sub>0</sub> , where intensity of incident beam is Io and the intensity of the emergent beam is I). ε <sub>λ</sub> , which is a property of the substance and the solvent at a particular wavelength λ, is known as the molar absorptivity or extinction coefficient of the dissolved colored substance. ℓ is the sample path length and c is the concentration of the substance in the sample.
 
 Therefore, A = (constant)× c for a given path length of a sample.
 
