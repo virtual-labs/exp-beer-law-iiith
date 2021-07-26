@@ -1,1 +1,9 @@
-### Link your theory in here
+Beer Law states that the light absorbing capacity of a dissolved substance is directly proportional to its concentration in the solution. Mathematically this law is given by
+
+\begin{equation} A = - log_{10} T = ε_λ.l.c \end{equation}
+
+A is the absorbance and T is the transmittance (= I/I <sub>0</sub> , where intensity of incident beam is Io and the intensity of the emergent beam is I). ε <sub>λ</sub> , which is a property of the substance and the solvent at a particular wavelength λ, is known as the molar absorptivity or extinction coefficient of the dissolved colored substance. ℓ is the sample path length and c is the concentration of the substance in the sample.
+
+Therefore, A = (constant)× c for a given path length of a sample.
+
+One can verify validity of Beer Law by using a spectrophotometer and preparing a few different concentrations of solutions of a light absorbing substance in a suitable solvent. If one plots A vs. c for a sample of a given path length, then a straight line passing through origin and slope = (ελ. ℓ) should be obtained. It should be noted here that often deviations from the linearity occur at higher concentrations of the analyte in a solvent. Nevertheless, Beer Law is accurate for a range of low concentrations of chromophores in many solvents and is therefore widely used in quantitative spectroscopy. If the molar absorptivity or extinction coefficient is known for particular substance, the unknown concentration of that substance in a solution can be calculated from the above equation. In the case of nonavailability of molar absorptivity or extinction coefficient, the unknown analyte concentration can be determined using a "calibration" straight line (or the regression equation for the straight line) derived by plotting the absorbance vs. concentration from a few standard solutions.
