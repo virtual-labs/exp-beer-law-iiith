@@ -20,13 +20,6 @@ To understand the relationship between the concentration and absorbance of a giv
 18. Verify the Beer Law observing whether absorbance and transmittance values have linear correlation with concentration or not.
 19. Normalize absorbance measurements to 1 mM concentration by dividing the absorbance data by the corresponding concentration for a given wavelength. Are the normalized data (within experimental error) concentration -specific at a given wavelength? Discuss your results.
 
-**Table 1.** Measured Absorbance and Transmittance values at different concentrations for different wavelengths 
+**Table 1.** Measured Absorbance and Transmittance values at different concentrations for different wavelengths   
 
-|           |Concentrations and Absorbance-Transmittance Values              | 
-|           |1.0 mM|              |.5 mM|              |0.1 mM|              |  
-|-----------|------|--------------|-----|--------------|------|--------------|
-|Wavelengths| Abs  | Transmittance| Abs | Transmittance| Abs  | Transmittance|
-|-----------|------|--------------|-----|--------------|------|--------------|
-|   525 nm  |	                                                      
-|   545 nm  |                    
-|   570 nm  |     
+<img src="images/beer-law.png"> 
