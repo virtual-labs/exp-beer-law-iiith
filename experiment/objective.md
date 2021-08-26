@@ -1,0 +1,1 @@
+- To understand and determine the relationship between the concentration and absorbance of a given sample
