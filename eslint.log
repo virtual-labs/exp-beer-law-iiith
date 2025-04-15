@@ -1,0 +1,290 @@
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/expt4/mas4_animations.js
+    3:5   warning  'id' is not defined                        no-undef
+    5:12  warning  'type_of_movement' is not defined          no-undef
+    6:17  warning  'initial_top' is not defined               no-undef
+    6:31  warning  'final_top' is not defined                 no-undef
+    7:31  warning  'id' is not defined                        no-undef
+    8:17  warning  'count' is not defined                     no-undef
+   10:17  warning  'initial_top' is not defined               no-undef
+   10:30  warning  'step_top' is not defined                  no-undef
+   11:17  warning  'initial_left' is not defined              no-undef
+   11:31  warning  'step_left' is not defined                 no-undef
+   12:17  warning  'elem' is not defined                      no-undef
+   12:34  warning  'initial_top' is not defined               no-undef
+   13:17  warning  'elem' is not defined                      no-undef
+   13:35  warning  'initial_left' is not defined              no-undef
+   16:17  warning  'type_of_movement' is not defined          no-undef
+   17:17  warning  'initial_top' is not defined               no-undef
+   17:31  warning  'final_top' is not defined                 no-undef
+   18:31  warning  'id' is not defined                        no-undef
+   19:17  warning  'count' is not defined                     no-undef
+   21:17  warning  'initial_top' is not defined               no-undef
+   21:30  warning  'step_top' is not defined                  no-undef
+   22:17  warning  'initial_left' is not defined              no-undef
+   22:31  warning  'step_left' is not defined                 no-undef
+   23:17  warning  'elem' is not defined                      no-undef
+   23:34  warning  'initial_top' is not defined               no-undef
+   24:17  warning  'elem' is not defined                      no-undef
+   24:35  warning  'initial_left' is not defined              no-undef
+   39:10  warning  'beaker' is defined but never used         no-unused-vars
+   40:8   warning  'step_no' is not defined                   no-undef
+   42:9   warning  'elem' is not defined                      no-undef
+   44:9   warning  'initial_top' is not defined               no-undef
+   44:34  warning  '$' is not defined                         no-undef
+   45:9   warning  'initial_left' is not defined              no-undef
+   45:35  warning  '$' is not defined                         no-undef
+   47:9   warning  'final_top' is not defined                 no-undef
+   48:9   warning  'step_top' is not defined                  no-undef
+   49:9   warning  'step_left' is not defined                 no-undef
+   50:9   warning  'type_of_movement' is not defined          no-undef
+   55:9   warning  '$' is not defined                         no-undef
+   58:9   warning  'step_no' is not defined                   no-undef
+   65:10  warning  'flask' is defined but never used          no-unused-vars
+   66:10  warning  'step_no' is not defined                   no-undef
+   66:26  warning  'count' is not defined                     no-undef
+   68:9   warning  'elem' is not defined                      no-undef
+   70:9   warning  'initial_top' is not defined               no-undef
+   70:34  warning  '$' is not defined                         no-undef
+   71:9   warning  'initial_left' is not defined              no-undef
+   71:35  warning  '$' is not defined                         no-undef
+   73:9   warning  'final_top' is not defined                 no-undef
+   74:9   warning  'step_top' is not defined                  no-undef
+   75:9   warning  'step_left' is not defined                 no-undef
+   76:9   warning  'type_of_movement' is not defined          no-undef
+   81:9   warning  'step_no' is not defined                   no-undef
+   83:13  warning  'step_no' is not defined                   no-undef
+   83:27  warning  'count' is not defined                     no-undef
+   87:9   warning  'step_no' is not defined                   no-undef
+   94:5   warning  'elem' is not defined                      no-undef
+   96:5   warning  'initial_top' is not defined               no-undef
+   96:30  warning  '$' is not defined                         no-undef
+   97:5   warning  'initial_left' is not defined              no-undef
+   97:31  warning  '$' is not defined                         no-undef
+   99:5   warning  'final_top' is not defined                 no-undef
+  100:5   warning  'step_top' is not defined                  no-undef
+  101:5   warning  'step_left' is not defined                 no-undef
+  102:5   warning  'type_of_movement' is not defined          no-undef
+  106:5   warning  'id1' is not defined                       no-undef
+  113:5   warning  'img' is not defined                       no-undef
+  114:5   warning  'img1' is not defined                      no-undef
+  147:8   warning  'y' is not defined                         no-undef
+  148:9   warning  'img' is not defined                       no-undef
+  148:25  warning  'y' is not defined                         no-undef
+  151:5   warning  'y' is not defined                         no-undef
+  153:9   warning  'y' is not defined                         no-undef
+  154:9   warning  'img' is not defined                       no-undef
+  156:9   warning  'y' is not defined                         no-undef
+  157:9   warning  'img' is not defined                       no-undef
+  158:9   warning  'img1' is not defined                      no-undef
+  160:9   warning  'y' is not defined                         no-undef
+  161:9   warning  'img' is not defined                       no-undef
+  162:9   warning  'img1' is not defined                      no-undef
+  164:8   warning  'y' is not defined                         no-undef
+  165:23  warning  'id1' is not defined                       no-undef
+  170:10  warning  'moveFlaskBack' is defined but never used  no-unused-vars
+  172:5   warning  'elem' is not defined                      no-undef
+  174:5   warning  'initial_top' is not defined               no-undef
+  174:30  warning  '$' is not defined                         no-undef
+  175:5   warning  'initial_left' is not defined              no-undef
+  175:31  warning  '$' is not defined                         no-undef
+  177:5   warning  'final_top' is not defined                 no-undef
+  178:5   warning  'step_top' is not defined                  no-undef
+  179:5   warning  'step_left' is not defined                 no-undef
+  180:5   warning  'type_of_movement' is not defined          no-undef
+  182:5   warning  'elem' is not defined                      no-undef
+  184:5   warning  'elem' is not defined                      no-undef
+  193:10  warning  'pipette' is defined but never used        no-unused-vars
+  194:10  warning  'step_no' is not defined                   no-undef
+  194:26  warning  'count' is not defined                     no-undef
+  196:9   warning  'elem' is not defined                      no-undef
+  198:9   warning  'initial_top' is not defined               no-undef
+  198:34  warning  '$' is not defined                         no-undef
+  199:9   warning  'initial_left' is not defined              no-undef
+  199:35  warning  '$' is not defined                         no-undef
+  201:9   warning  'final_top' is not defined                 no-undef
+  202:9   warning  'step_top' is not defined                  no-undef
+  203:9   warning  'step_left' is not defined                 no-undef
+  204:9   warning  'type_of_movement' is not defined          no-undef
+  209:9   warning  'step_no' is not defined                   no-undef
+  211:13  warning  'step_no' is not defined                   no-undef
+  211:27  warning  'count' is not defined                     no-undef
+  215:9   warning  'step_no' is not defined                   no-undef
+  218:13  warning  'step_no' is not defined                   no-undef
+  218:27  warning  'count' is not defined                     no-undef
+  222:9   warning  'step_no' is not defined                   no-undef
+  228:5   warning  'img' is not defined                       no-undef
+  229:5   warning  'img' is not defined                       no-undef
+  231:9   warning  'elem' is not defined                      no-undef
+  232:9   warning  'img' is not defined                       no-undef
+  234:9   warning  'count' is not defined                     no-undef
+  241:5   warning  'elem' is not defined                      no-undef
+  243:5   warning  'initial_top' is not defined               no-undef
+  243:30  warning  '$' is not defined                         no-undef
+  244:5   warning  'initial_left' is not defined              no-undef
+  244:31  warning  '$' is not defined                         no-undef
+  246:5   warning  'final_top' is not defined                 no-undef
+  247:5   warning  'step_top' is not defined                  no-undef
+  248:5   warning  'step_left' is not defined                 no-undef
+  249:5   warning  'type_of_movement' is not defined          no-undef
+  253:9   warning  'img' is not defined                       no-undef
+  255:9   warning  'img' is not defined                       no-undef
+  256:9   warning  'elem' is not defined                      no-undef
+  264:5   warning  'elem' is not defined                      no-undef
+  266:5   warning  'initial_top' is not defined               no-undef
+  266:30  warning  '$' is not defined                         no-undef
+  267:5   warning  'initial_left' is not defined              no-undef
+  267:31  warning  '$' is not defined                         no-undef
+  269:5   warning  'final_top' is not defined                 no-undef
+  270:5   warning  'step_top' is not defined                  no-undef
+  271:5   warning  'step_left' is not defined                 no-undef
+  272:5   warning  'type_of_movement' is not defined          no-undef
+  281:10  warning  'cuvette' is defined but never used        no-unused-vars
+  282:10  warning  'step_no' is not defined                   no-undef
+  282:26  warning  'count' is not defined                     no-undef
+  284:9   warning  'elem' is not defined                      no-undef
+  286:9   warning  'elem' is not defined                      no-undef
+  288:9   warning  'initial_top' is not defined               no-undef
+  288:34  warning  '$' is not defined                         no-undef
+  289:9   warning  'initial_left' is not defined              no-undef
+  289:35  warning  '$' is not defined                         no-undef
+  291:9   warning  'final_top' is not defined                 no-undef
+  292:9   warning  'step_top' is not defined                  no-undef
+  293:9   warning  'step_left' is not defined                 no-undef
+  294:9   warning  'type_of_movement' is not defined          no-undef
+  300:9   warning  'step_no' is not defined                   no-undef
+  302:13  warning  'step_no' is not defined                   no-undef
+  304:9   warning  'elem' is not defined                      no-undef
+  307:9   warning  'initial_top' is not defined               no-undef
+  307:34  warning  '$' is not defined                         no-undef
+  308:9   warning  'initial_left' is not defined              no-undef
+  308:35  warning  '$' is not defined                         no-undef
+  310:9   warning  'final_top' is not defined                 no-undef
+  311:9   warning  'step_top' is not defined                  no-undef
+  312:9   warning  'step_left' is not defined                 no-undef
+  313:9   warning  'type_of_movement' is not defined          no-undef
+  318:9   warning  'step_no' is not defined                   no-undef
+  323:10  warning  'moveDown' is defined but never used       no-unused-vars
+  325:5   warning  'initial_top' is not defined               no-undef
+  325:30  warning  '$' is not defined                         no-undef
+  326:5   warning  'initial_left' is not defined              no-undef
+  326:31  warning  '$' is not defined                         no-undef
+  328:5   warning  'final_top' is not defined                 no-undef
+  329:5   warning  'step_top' is not defined                  no-undef
+  330:5   warning  'step_left' is not defined                 no-undef
+  331:5   warning  'type_of_movement' is not defined          no-undef
+  339:10  warning  'extraCuvette' is defined but never used   no-unused-vars
+  341:5   warning  '$' is not defined                         no-undef
+  343:5   warning  'elem' is not defined                      no-undef
+  345:5   warning  'initial_top' is not defined               no-undef
+  345:30  warning  '$' is not defined                         no-undef
+  346:5   warning  'initial_left' is not defined              no-undef
+  346:31  warning  '$' is not defined                         no-undef
+  348:5   warning  'final_top' is not defined                 no-undef
+  349:5   warning  'step_top' is not defined                  no-undef
+  350:5   warning  'step_left' is not defined                 no-undef
+  351:5   warning  'type_of_movement' is not defined          no-undef
+  356:9   warning  '$' is not defined                         no-undef
+  358:9   warning  'count' is not defined                     no-undef
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/expt4/mas_expt4.js
+    6:5   warning  'y' is assigned a value but never used        no-unused-vars
+    8:5   warning  'initial_top' is defined but never used       no-unused-vars
+    9:5   warning  'initial_left' is defined but never used      no-unused-vars
+   10:5   warning  'final_top' is defined but never used         no-unused-vars
+   11:5   warning  'final_left' is defined but never used        no-unused-vars
+   12:5   warning  'step' is defined but never used              no-unused-vars
+   13:5   warning  'elem' is defined but never used              no-unused-vars
+   14:5   warning  'img' is defined but never used               no-unused-vars
+   14:10  warning  'img1' is defined but never used              no-unused-vars
+   15:5   warning  'id' is defined but never used                no-unused-vars
+   15:9   warning  'id1' is defined but never used               no-unused-vars
+   16:5   warning  'type_of_movement' is defined but never used  no-unused-vars
+   65:3   warning  'newwindow' is not defined                    no-undef
+   68:5   warning  'newwindow' is not defined                    no-undef
+   92:7   warning  'flask' is not defined                        no-undef
+   99:7   warning  'pipette' is not defined                      no-undef
+  106:7   warning  'beaker' is not defined                       no-undef
+  113:7   warning  'cuvette' is not defined                      no-undef
+  186:10  warning  'turnOn' is defined but never used            no-unused-vars
+  212:7   warning  '$' is not defined                            no-undef
+  221:10  warning  'removeClock' is defined but never used       no-unused-vars
+  222:3   warning  '$' is not defined                            no-undef
+  226:3   warning  'cursorPointers' is not defined               no-undef
+  240:5   warning  'cursorPointers' is not defined               no-undef
+  248:5   warning  'cursorPointers' is not defined               no-undef
+  265:5   warning  'cursorPointers' is not defined               no-undef
+  278:11  warning  'vid' is already defined                      no-redeclare
+  280:11  warning  'vid' is already defined                      no-redeclare
+  282:5   warning  '$' is not defined                            no-undef
+  287:5   warning  'cursorPointers' is not defined               no-undef
+  297:5   warning  '$' is not defined                            no-undef
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/libraries/bootstrap-3.3.7-dist/js/bootstrap.js
+    17:3  warning  'jQuery' is not defined                                     no-undef
+    77:3  warning  'jQuery' is not defined                                     no-undef
+   172:3  warning  'jQuery' is not defined                                     no-undef
+   298:3  warning  'jQuery' is not defined                                     no-undef
+   536:3  warning  'jQuery' is not defined                                     no-undef
+   667:7  warning  Unexpected newline between object and [ of property access  no-unexpected-multiline
+   749:3  warning  'jQuery' is not defined                                     no-undef
+   915:3  warning  'jQuery' is not defined                                     no-undef
+  1255:3  warning  'jQuery' is not defined                                     no-undef
+  1776:3  warning  'jQuery' is not defined                                     no-undef
+  1885:3  warning  'jQuery' is not defined                                     no-undef
+  2058:3  warning  'jQuery' is not defined                                     no-undef
+  2214:3  warning  'jQuery' is not defined                                     no-undef
+  2377:3  warning  'jQuery' is not defined                                     no-undef
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/libraries/bootstrap-3.3.7-dist/js/bootstrap.min.js
+  6:319    warning  'jQuery' is not defined                 no-undef
+  6:1071   warning  'jQuery' is not defined                 no-undef
+  6:2016   warning  'jQuery' is not defined                 no-undef
+  6:3965   warning  'jQuery' is not defined                 no-undef
+  6:8001   warning  'jQuery' is not defined                 no-undef
+  6:11369  warning  'jQuery' is not defined                 no-undef
+  6:13732  warning  'jQuery' is not defined                 no-undef
+  6:19734  warning  'jQuery' is not defined                 no-undef
+  6:27338  warning  'a' is assigned a value but never used  no-unused-vars
+  6:28677  warning  'jQuery' is not defined                 no-undef
+  6:30264  warning  'jQuery' is not defined                 no-undef
+  7:648    warning  'jQuery' is not defined                 no-undef
+  7:2468   warning  'jQuery' is not defined                 no-undef
+  7:4879   warning  'jQuery' is not defined                 no-undef
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/libraries/bootstrap-3.3.7-dist/js/npm.js
+   2:1  warning  'require' is not defined  no-undef
+   3:1  warning  'require' is not defined  no-undef
+   4:1  warning  'require' is not defined  no-undef
+   5:1  warning  'require' is not defined  no-undef
+   6:1  warning  'require' is not defined  no-undef
+   7:1  warning  'require' is not defined  no-undef
+   8:1  warning  'require' is not defined  no-undef
+   9:1  warning  'require' is not defined  no-undef
+  10:1  warning  'require' is not defined  no-undef
+  11:1  warning  'require' is not defined  no-undef
+  12:1  warning  'require' is not defined  no-undef
+  13:1  warning  'require' is not defined  no-undef
+
+/home/runner/work/exp-beer-law-iiith/exp-beer-law-iiith/experiment/simulation/libraries/jQueryRotate.js
+   20:5   warning  'jQuery' is not defined                                                    no-undef
+   32:38  warning  'Wilq32' is not defined                                                    no-undef
+   66:5   warning  'Wilq32' is not defined                                                    no-undef
+   67:5   warning  'Wilq32' is not defined                                                    no-undef
+   96:13  warning  'jQuery' is not defined                                                    no-undef
+  102:5   warning  'Wilq32' is not defined                                                    no-undef
+  149:52  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  151:15  warning  'jQuery' is not defined                                                    no-undef
+  155:18  warning  'a' is already defined                                                     no-redeclare
+  155:42  warning  Do not access Object.prototype method 'hasOwnProperty' from target object  no-prototype-builtins
+  157:11  warning  'jQuery' is not defined                                                    no-undef
+  163:13  warning  'IE' is not defined                                                        no-undef
+  198:20  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  232:20  warning  Expected a conditional expression and instead saw an assignment            no-cond-assign
+  284:13  warning  'IE' is not defined                                                        no-undef
+  322:11  warning  'IE' is not defined                                                        no-undef
+  324:9   warning  'Wilq32' is not defined                                                    no-undef
+  339:4   warning  'jQuery' is not defined                                                    no-undef
+
+✖ 275 problems (0 errors, 275 warnings)
+
